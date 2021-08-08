@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="Pikachu-407x400.png" width="200" height="200"/>
+  <img border-radius: 15px src="🇷‌🇲‌🇦‌𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 20210723_114733.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
